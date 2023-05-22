@@ -124,7 +124,7 @@ print(read_text)
 
 ## 授权许可
 
-此存储库遵循 MIT 开源协议，请务必理解。
+此存储库遵循 [MIT](https://github.com/aoguai/ClipboardManage/blob/master/LICENSE) 开源协议，请务必理解。
 
 我们严禁所有通过本程序违反任何国家法律的行为，请在法律范围内使用本程序。
 
